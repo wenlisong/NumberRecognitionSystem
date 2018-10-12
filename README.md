@@ -6,31 +6,31 @@ The topic is from a programming assignment of my class "Advanced Topics in AI".
 I will use MATLAB to build a simple system to recognise number 1, 2, 4, 5.
 
 ## Tutorial
-% I show you how to run the matlab code
+I show you how to run the matlab code
 
-% First, open Matlab
+First, open Matlab or Octave
 
-% Question 4.1
-% My student id is 1155114524, so I record 1,2,4,5 in Mandarin
-% Fs=48kHz and bps=16
-% you can see the file in my directory
+* Question 4.1
+My student id is 1155114524, so I record 1,2,4,5 in Mandarin
+Fs=48kHz and bps=16
+you can see the file in my directory
 
-% Question 4.2
-% I record another 1,2,4,5 as test set
+* Question 4.2
+I record another 1,2,4,5 as test set
 
-% Question 4.3
-% (a),(b)
-% I do these two question in wav2jpg.m, I pick s5A.wav
-% You can run command 'wav2jpg' in command window
-% to plot time domain and save the image 's5A.jpg'
+*Question 4.3
+(a),(b)
+I do these two question in wav2jpg.m, I pick s5A.wav
+You can run command 'wav2jpg' in command window
+to plot time domain and save the image 's5A.jpg'
 
-% Question 4.4
-% (a)
-% You can run command 'printSEtime' in command window
-% then you can see the start time(T1) and end time(T2) ms
+Question 4.4
+(a)
+You can run command 'printSEtime' in command window
+then you can see the start time(T1) and end time(T2) ms
 
-% (b)
-% I write the function getSegment to find a segment
+(b)
+I write the function getSegment to find a segment
 
 % (c)
 % You can run command 'plotFTSeg' in command window
