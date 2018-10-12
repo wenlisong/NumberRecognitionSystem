@@ -10,21 +10,21 @@ I show you how to run the matlab code
 
 First, open Matlab or Octave
 
-* Question 4.1
+### Question 4.1
 My student id is 1155114524, so I record 1,2,4,5 in Mandarin
 Fs=48kHz and bps=16
 you can see the file in my directory
 
-* Question 4.2
+### Question 4.2
 I record another 1,2,4,5 as test set
 
-* Question 4.3
+### Question 4.3
 (a),(b)
 I do these two question in wav2jpg.m, I pick s5A.wav
 You can run command 'wav2jpg' in command window
 to plot time domain and save the image 's5A.jpg'
 
-* Question 4.4
+### Question 4.4
 (a)
 You can run command 'printSEtime' in command window
 then you can see the start time(T1) and end time(T2) ms
@@ -44,7 +44,7 @@ then you can see the images of original Seg1 and pre-emphasis signal Pem_Seg1
 You can run command 'printLPCparam' in command window
 then you can see 10 LPC parameters
 
-* Question 4.5
+### Question 4.5
 (a)
 You can run command 'convMFCC' in command window
 then you can see the MFCC matrix and its size
